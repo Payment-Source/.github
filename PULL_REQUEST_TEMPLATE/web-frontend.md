@@ -14,3 +14,5 @@
 - [ ] 📝 Added acceptance criteria in the Basecamp task Notes section
 - [ ] 💬 Added sufficient code comments
 - [ ] 🧪 Tested for accessibility, responsive design, and multi-language
+- [ ] 📑 Added all text to the Language Files
+- [ ] 🧑‍💻 No mixed usage of relative and absolute CSS units
