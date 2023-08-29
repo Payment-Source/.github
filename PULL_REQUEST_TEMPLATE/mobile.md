@@ -13,4 +13,6 @@
 - [ ] 📃 Updated applicable documentation
 - [ ] 📝 Added acceptance criteria in the Basecamp task Notes section
 - [ ] 💬 Added sufficient code comments
-- [ ] 🧪 Tested on an Android and iOS device
+## Tested on
+- [ ] 🍏 iOS
+- [ ] 🤖 Android
