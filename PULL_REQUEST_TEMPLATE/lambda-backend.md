@@ -4,10 +4,11 @@
 ## 🔗 Dependent task links
 
 
-## Notes for Code Reviewer (implementation reasons, breaking changes, etc)
+## Notes for Code Reviewer (refactor and implementation reasons, breaking changes, etc)
 
 
 ## Developer Checklist
+- [ ] 🔁 Considered and tested for backward compatibility
 - [ ] 🧪 Updated Request Template JSON & tested using Mock Lambda Testing Tool
 - [ ] 🌐 Moved text into language files
 - [ ] 📄 Completed applicable YAML changes
