@@ -8,11 +8,29 @@
 
 
 ## Developer Checklist
-- [ ] 🌿 Branch name abides by conventions
-- [ ] ✍ Updated PR title to be clear
-- [ ] 📃 Updated applicable documentation
-- [ ] 📝 Added acceptance criteria in the Basecamp task Notes section
+- [ ] 🧪 Tested for multi-language
 - [ ] 💬 Added sufficient code comments
+- [ ] 🧑‍💻 Added applicable Amplitude events
+- [ ] 📃 Updated applicable documentation
+- [ ] ✍ Updated PR title to be clear
+
 ## Tested on
 - [ ] 🍏 iOS
 - [ ] 🤖 Android
+
+## Acceptance Criteria
+*This will be manually copied over to Basecamp by Code Reviewers*
+### General UI/UX
+- [ ] Multi-language (English, French)
+- [ ] Platform testing (iOS, Android)
+- [ ] Emulator testing (small phones to large tablets)
+- [ ] Validation (follows FDS doc, has good UX)
+
+### Regression Testing
+**a. Regression Test Case Tags to be tested**
+
+**b. Regression Test Case Numbers to be tested**
+
+**c. List any special test cases that need to be added to Regression Test Suites**
+
+### Feature/change specific
