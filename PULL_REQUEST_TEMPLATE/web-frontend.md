@@ -4,11 +4,12 @@
 ## 🔗 Dependent task links
 
 
-## Notes for Code Reviewer (implementation reasons, breaking changes, etc)
+## Notes for Code Reviewer (refactor and implementation reasons, breaking changes, etc)
 
 
 ## Developer Checklist
 - [ ] 🧪 Tested for accessibility, responsive design, and multi-language
+- [ ] 🔁 Considered and tested for backward compatibility
 - [ ] 💬 Added sufficient code comments
 - [ ] 🧑‍💻 Added applicable Amplitude events
 - [ ] 📃 Updated applicable documentation
