@@ -17,7 +17,7 @@
 - [ ] ✂️ Cut and paste Acceptance Criteria into the bottom of the task Notes
 
 ## Acceptance Criteria
-*This will be manually copied over to Basecamp by Code Reviewers*
+
 ### General UI/UX
 - [ ] Accessibility (WCAG 2.0 AA)
 - [ ] Multi-language (English, French)
