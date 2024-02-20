@@ -28,5 +28,7 @@
 
 **c. List any special test cases that need to be added to Regression Test Suites**
 
+### Feature overview
+*What is the purpose of this feature? What problem is it trying to solve? This helps QA understand what the feature is for.*
 
 ### Feature/change specific
