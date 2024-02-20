@@ -14,13 +14,14 @@
 - [ ] 🧑‍💻 Added applicable Amplitude events
 - [ ] 📃 Updated applicable documentation
 - [ ] ✍ Updated PR title to be clear
+- [ ] ✂️ Cut and paste Acceptance Criteria into the bottom of the task Notes
 
 ## Tested on
 - [ ] 🍏 iOS
 - [ ] 🤖 Android
 
 ## Acceptance Criteria
-*This will be manually copied over to Basecamp by Code Reviewers*
+
 ### General UI/UX
 - [ ] Multi-language (English, French)
 - [ ] Platform testing (iOS, Android)
