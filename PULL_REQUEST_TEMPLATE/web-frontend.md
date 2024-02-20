@@ -14,6 +14,7 @@
 - [ ] 🧑‍💻 Added applicable Amplitude events
 - [ ] 📃 Updated applicable documentation
 - [ ] ✍ Updated PR title to be clear
+- [ ] ✂️ Cut and paste Acceptance Criteria into the bottom of the task Notes
 
 ## Acceptance Criteria
 *This will be manually copied over to Basecamp by Code Reviewers*
