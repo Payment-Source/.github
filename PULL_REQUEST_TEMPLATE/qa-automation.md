@@ -5,4 +5,6 @@
 
 
 ## Reviewer - after merging the Pull Request
-- [ ]  Update the Regression Test Suite tests as automated
+- [ ]  Review code - ensure consistent conventions, etc
+- [ ]  Run tests locally
+- [ ]  Add or update Regression Test Suite tests
