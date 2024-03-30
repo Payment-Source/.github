@@ -27,6 +27,7 @@
 - [ ] Platform testing (iOS, Android)
 - [ ] Emulator testing (small phones to large tablets)
 - [ ] Validation (follows FDS doc, has good UX)
+- [ ] Theme testing (Dark Theme & Light Theme, only applicable for Zenwallet) 
 
 ### Regression Testing
 **a. Regression Test Case Tags to be tested**
