@@ -21,22 +21,4 @@
 - [ ] 🤖 Android
 
 ## Acceptance Criteria
-
-### General UI/UX
-- [ ] Multi-language (English, French)
-- [ ] Platform testing (iOS, Android)
-- [ ] Emulator testing (small phones to large tablets)
-- [ ] Validation (follows FDS doc, has good UX)
-- [ ] Theme testing (Dark Theme & Light Theme, only applicable for Zenwallet) 
-
-### Regression Testing
-**a. Regression Test Case Tags to be tested**
-
-**b. Regression Test Case Numbers to be tested**
-
-**c. List any special test cases that need to be added to Regression Test Suites**
-
-### Feature overview
-*What is the purpose of this feature? What problem is it trying to solve? This helps QA understand what the feature is for.*
-
-### Feature/change specific
+[Copy template from Basecamp](https://3.basecamp.com/3425901/buckets/4540862/documents/7384560414)
