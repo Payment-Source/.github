@@ -19,16 +19,24 @@
 - [ ] ✍ Updated PR title to be clear
 - [ ] ✂️ Cut and paste Acceptance Criteria into the bottom of the task Notes
 
-## Acceptance Criteria
+# Acceptance Criteria
+**Regression Testing**<br>
+_**a. Regression Test Case Tags to be tested**_<br><br><br>
 
-### Regression Testing
-**a. Regression Test Case Tags to be tested**
 
-**b. Regression Test Case Numbers to be tested**
+_**b. Regression Test Case Numbers to be tested**_<br><br><br>
 
-**c. List any special test cases that need to be added to Regression Test Suites**
 
-### Feature overview
-*What is the purpose of this feature? What problem is it trying to solve? This helps QA understand what the feature is for.*
+_**c. List any special test cases that need to be added to Regression Test Suites**_<br><br><br>
 
-### Feature/change specific
+
+
+**Feature overview**<br>
+_**a. Purpose of the feature (ie what problem is it trying to solve)**_<br><br><br>
+
+_**b. Expected behaviour**_<br><br><br>
+
+_**c. Abnormals & edge cases**_<br><br><br>
+
+
+**Notes for QA (concerns, more information, etc)**<br>
