@@ -20,5 +20,31 @@
 - [ ] 🍏 iOS
 - [ ] 🤖 Android
 
-## Acceptance Criteria
-[Copy template from Basecamp](https://3.basecamp.com/3425901/buckets/4540862/documents/7384560414)
+# Acceptance Criteria
+**General UI/UX**
+- Multi-language (English, French)
+- Platform testing (iOS, Android)
+- Emulator testing (small phones to large tablets)
+- Validation (follows FDS doc, has good UX)
+- Theme testing (Dark Theme & Light Theme, only applicable for Zenwallet)
+
+**Regression Testing**<br>
+_**a. Regression Test Case Tags to be tested**_<br><br><br>
+
+
+_**b. Regression Test Case Numbers to be tested**_<br><br><br>
+
+
+_**c. List any special test cases that need to be added to Regression Test Suites**_<br><br><br>
+
+
+
+**Feature overview**<br>
+_**a. Purpose of the feature (ie what problem is it trying to solve)**_<br><br><br>
+
+_**b. Expected behaviour**_<br><br><br>
+
+_**c. Abnormals & edge cases**_<br><br><br>
+
+
+**Notes for QA (concerns, more information, etc)**<br>
