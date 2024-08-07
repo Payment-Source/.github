@@ -48,3 +48,7 @@ _**c. Abnormals & edge cases**_<br><br><br>
 
 
 **Notes for QA (concerns, more information, etc)**<br>
+
+# QA Checklist
+1. Are there any Regression Test Cases that need to be updated? List the updates made.
+2. Do you need to update the [Testing Hub Doc](https://sites.google.com/paymentsource.ca/services/development/testing-expected-behaviour) with behaviours or accounts?
