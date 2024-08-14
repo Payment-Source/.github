@@ -9,3 +9,4 @@
 - [ ]  Run tests locally
 - [ ]  Ensure Test Case ID is included as a tag in the feature file
 - [ ]  Add or update Regression Test Suite tests
+- [ ]  Tags follow [coding conventions / best practices](https://sites.google.com/paymentsource.ca/services/development/coding-conventions#h.w6e26vd86ddx)
