@@ -11,7 +11,7 @@
 - [ ] 🔁 Considered and tested for backward compatibility
 - [ ] 🧪 Updated Request Template JSON & tested using Mock Lambda Testing Tool
 - [ ] 🌐 Moved text into language files
-- [ ] 📄 Completed applicable YAML changes
+- [ ] 📄 Completed applicable API Gateway definition changes
 - [ ] 📄 Granted applicable rights in AWS
 - [ ] 💬 Added sufficient code comments
 - [ ] 🧑‍💻 Added applicable Amplitude events
