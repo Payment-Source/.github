@@ -14,6 +14,7 @@
 - [ ] 🧑‍💻 Added applicable Amplitude events
 - [ ] 📃 Updated applicable documentation
 - [ ] ✍ Updated PR title to be clear
+- [ ] 🏷️ Added QA label to the Basecamp task (`non-QA testing`, `minimal`, `moderate`, or `extensive`)
 - [ ] ✂️ Cut and paste Acceptance Criteria into the bottom of the task Notes
 
 ## Tested on
