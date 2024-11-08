@@ -12,6 +12,7 @@
 - [ ] 🔁 Considered and tested for backward compatibility
 - [ ] 💬 Added sufficient code comments
 - [ ] 🧑‍💻 Added applicable Amplitude events
+- [ ] ⚠️ Resolved any warning messages in the console (DevTools & Terminal)
 - [ ] 📃 Updated applicable documentation
 - [ ] ✍ Updated PR title to be clear
 - [ ] 🏷️ Added QA label to the Basecamp task (`non-QA testing`, `minimal`, `moderate`, or `extensive`)
