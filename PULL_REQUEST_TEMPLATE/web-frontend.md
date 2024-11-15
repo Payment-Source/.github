@@ -16,9 +16,21 @@
 - [ ] 📃 Updated applicable documentation
 - [ ] ✍ Updated PR title to be clear
 - [ ] 🏷️ Added QA label to the Basecamp task (`non-QA testing`, `minimal`, `moderate`, or `extensive`)
-- [ ] ✂️ Cut and paste Acceptance Criteria into the bottom of the task Notes
+- [ ] ✂️ Cut and paste template below into the bottom of task Notes. Fill out and/or remove unnecessary items.
 
+-------
 # Acceptance Criteria
+**a. Purpose of the feature (ie what problem is it trying to solve)**<br><br>
+
+**b. Expected behaviour**<br><br>
+
+**c. Abnormals & edge cases**<br><br>
+
+**d. Regression Tests (ID's or Tags) to be tested**<br><br>
+
+**e. Notes for QA (concerns, more information, etc)**<br><br><br>
+
+# Test Results
 **General UI/UX**
 - Accessibility (WCAG 2.0 AA)
 - Multi-language (English, French)
@@ -26,27 +38,13 @@
 - Viewport testing (all devices shown in the Chrome dropdown)
 - Device testing (iOS, Android)
 - Validation (follows FDS doc, has good UX)
+<br>
 
-**Regression Testing**<br>
-_**a. Regression Test Case Tags to be tested**_<br><br><br>
-
-
-_**b. Regression Test Case Numbers to be tested**_<br><br><br>
+**Regression Tests**<br><br>
 
 
-_**c. List any special test cases that need to be added to Regression Test Suites**_<br><br><br>
+**Acceptance Criteria Tests**<br><br><br>
 
-
-
-**Feature overview**<br>
-_**a. Purpose of the feature (ie what problem is it trying to solve)**_<br><br><br>
-
-_**b. Expected behaviour**_<br><br><br>
-
-_**c. Abnormals & edge cases**_<br><br><br>
-
-
-**Notes for QA (concerns, more information, etc)**<br>
 
 # QA Checklist
 1. Are there any Regression Test Cases that need to be updated? List the updates made.
