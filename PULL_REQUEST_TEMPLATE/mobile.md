@@ -17,7 +17,7 @@
 - [ ] 🏷️ Added QA label to the Basecamp task (`non-QA testing`, `minimal`, `moderate`, or `extensive`)
 - [ ] ✂️ Cut and paste Acceptance Criteria into the bottom of the task Notes
 
-## Tested on
+### Tested on
 - [ ] 🍏 iOS
 - [ ] 🤖 Android
 
