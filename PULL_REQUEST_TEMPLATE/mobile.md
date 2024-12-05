@@ -22,33 +22,32 @@
 - [ ] 🤖 Android
 
 # Acceptance Criteria
+**a. What problem is this feature trying to solve?**<br><br>
+
+**b. Expected behaviour**<br><br>
+
+**c. Abnormals & edge cases**<br><br>
+
+**d. Out of scope**<br><br>
+
+**e. Regression Tests (ID's or Tags) to be tested**<br><br>
+
+**f. Notes for QA (concerns, more information, etc)**<br><br><br>
+
+# Test Results
 **General UI/UX**
 - Multi-language (English, French)
 - Platform testing (iOS, Android)
 - Emulator testing (small phones to large tablets)
 - Validation (follows FDS doc, has good UX)
 - Theme testing (Dark Theme & Light Theme, only applicable for Zenwallet)
+<br>
 
-**Regression Testing**<br>
-_**a. Regression Test Case Tags to be tested**_<br><br><br>
-
-
-_**b. Regression Test Case Numbers to be tested**_<br><br><br>
+**Regression Tests**<br><br>
 
 
-_**c. List any special test cases that need to be added to Regression Test Suites**_<br><br><br>
+**Acceptance Criteria Tests**<br><br><br>
 
-
-
-**Feature overview**<br>
-_**a. Purpose of the feature (ie what problem is it trying to solve)**_<br><br><br>
-
-_**b. Expected behaviour**_<br><br><br>
-
-_**c. Abnormals & edge cases**_<br><br><br>
-
-
-**Notes for QA (concerns, more information, etc)**<br>
 
 # QA Checklist
 1. Are there any Regression Test Cases that need to be updated? List the updates made.
