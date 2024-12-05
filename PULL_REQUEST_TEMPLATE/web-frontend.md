@@ -20,15 +20,17 @@
 
 -------
 # Acceptance Criteria
-**a. Purpose of the feature (ie what problem is it trying to solve)**<br><br>
+**a. What problem is this feature trying to solve?**<br><br>
 
 **b. Expected behaviour**<br><br>
 
 **c. Abnormals & edge cases**<br><br>
 
-**d. Regression Tests (ID's or Tags) to be tested**<br><br>
+**d. Out of scope**<br><br>
 
-**e. Notes for QA (concerns, more information, etc)**<br><br><br>
+**e. Regression Tests (ID's or Tags) to be tested**<br><br>
+
+**f. Notes for QA (concerns, more information, etc)**<br><br><br>
 
 # Test Results
 **General UI/UX**
