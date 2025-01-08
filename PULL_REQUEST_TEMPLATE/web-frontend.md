@@ -8,7 +8,8 @@
 
 
 ## Developer Checklist
-- [ ] 🧪 Tested for accessibility, responsive design, and multi-language
+- [ ] 🧪 Tested for web accessibility
+- [ ] 🧪 Tested for responsive design & multi-language (iPhone 5 / SE, Galaxy S8+, Galaxy Z Fold)
 - [ ] 🔁 Considered and tested for backward compatibility
 - [ ] 💬 Added sufficient code comments
 - [ ] 🧑‍💻 Added applicable Amplitude events
