@@ -4,7 +4,7 @@
 ## 🔗 Dependent task links
 
 
-## Notes for Code Reviewer (refactor and implementation reasons, breaking changes, etc)
+## Notes for Code Reviewer (refactor and implementation reasons, breaking changes, skip QA reasons)
 
 
 ## Developer Checklist
@@ -26,13 +26,11 @@
 
 **b. Expected behaviour**<br><br>
 
-**c. Abnormals & edge cases**<br><br>
+**c. Things to watch out for (edge cases, etc)**<br><br>
 
 **d. Out of scope**<br><br>
 
-**e. Regression Tests (ID's or Tags) to be tested**<br><br>
-
-**f. Notes for QA (concerns, more information, etc)**<br><br><br>
+**e. Which other parts of the app might be impacted? (This helps QA decide which regression tests to run)**<br><br><br>
 
 # Test Results
 **General UI/UX**
