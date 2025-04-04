@@ -21,15 +21,11 @@
 - [ ] ✂️ Cut and paste Acceptance Criteria into the bottom of the task Notes
 
 # Acceptance Criteria
-**a. What problem is this feature trying to solve?**<br><br>
-
-**b. Expected behaviour**<br><br>
-
-**c. Things to watch out for (edge cases, etc)**<br><br>
-
-**d. Out of scope**<br><br>
-
-**e. Which other parts of the app might be impacted? (This helps QA decide which regression tests to run)**<br><br><br>
+**a. What problem is this feature trying to solve?**<br>
+**b. Expected behaviour**<br>
+**c. Things to watch out for (edge cases, etc)**<br>
+**d. Out of scope**<br>
+**e. Which other parts of the app might be impacted? (This helps QA decide which regression tests to run)**<br><br>
 
 # Test Results
 **Regression Tests**<br><br>
