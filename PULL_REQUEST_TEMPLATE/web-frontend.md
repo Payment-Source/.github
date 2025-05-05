@@ -15,7 +15,7 @@
 - [ ] 🧑‍💻 Added applicable Amplitude events
 - [ ] ⚠️ Resolved any warning messages in the console (DevTools & Terminal)
 - [ ] 📃 Updated applicable documentation
-- [ ] ✍ Updated PR title to be clear
+- [ ] ✍ Updated PR title to be clear & added [PR labels](https://3.basecamp.com/3425901/buckets/4540862/messages/8613591866)
 - [ ] 🏷️ Added QA label to the Basecamp task (`non-QA testing`, `minimal`, `moderate`, or `extensive`)
 - [ ] ✂️ Cut and paste the template below into the bottom of the task Notes. Fill out and/or remove unnecessary items.
 

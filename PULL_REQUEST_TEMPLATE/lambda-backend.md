@@ -16,7 +16,7 @@
 - [ ] 💬 Added sufficient code comments
 - [ ] 🧑‍💻 Added applicable Amplitude events
 - [ ] 📃 Updated applicable documentation
-- [ ] ✍ Updated PR title to be clear
+- [ ] ✍ Updated PR title to be clear & added [PR labels](https://3.basecamp.com/3425901/buckets/4540862/messages/8613591866)
 - [ ] 🏷️ Added QA label to the Basecamp task (`non-QA testing`, `minimal`, `moderate`, or `extensive`)
 - [ ] ✂️ Cut and paste Acceptance Criteria into the bottom of the task Notes
 
