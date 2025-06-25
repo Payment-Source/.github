@@ -11,6 +11,7 @@
 - [ ] 🧪 Tested for web accessibility
 - [ ] 🧪 Tested for responsive design & multi-language (iPhone 5 / SE, Galaxy S8+, Galaxy Z Fold)
 - [ ] 🔁 Considered and tested for backward compatibility
+- [ ] 🆔 Added data-testid attribute to applicable elements for QA automation
 - [ ] 💬 Added sufficient code comments
 - [ ] 🧑‍💻 Added applicable Amplitude events
 - [ ] ⚠️ Resolved any warning messages in the console (DevTools & Terminal)
