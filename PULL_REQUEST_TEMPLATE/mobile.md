@@ -10,6 +10,7 @@
 ## Developer Checklist
 - [ ] 🧪 Tested for multi-language
 - [ ] 🔁 Considered and tested for backward compatibility
+- [ ] 🆔 Added testID prop to applicable elements for QA automation
 - [ ] 💬 Added sufficient code comments
 - [ ] 🧑‍💻 Added applicable Amplitude events
 - [ ] 📃 Updated applicable documentation
