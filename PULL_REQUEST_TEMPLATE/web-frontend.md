@@ -8,17 +8,31 @@
 
 
 ## Developer Checklist
-- [ ] 🧪 Tested for web accessibility
-- [ ] 🧪 Tested for responsive design & multi-language (iPhone 5 / SE, Galaxy S8+, Galaxy Z Fold)
-- [ ] 🔁 Considered and tested for backward compatibility
-- [ ] 🆔 Added data-testid attribute to applicable elements for QA automation
-- [ ] 💬 Added sufficient code comments
-- [ ] 🧑‍💻 Added applicable Amplitude events
-- [ ] ⚠️ Resolved any warning messages in the console (DevTools & Terminal)
-- [ ] 📃 Updated applicable documentation
-- [ ] ✍ Updated PR title to be clear & added [PR labels](https://3.basecamp.com/3425901/buckets/4540862/messages/8613591866)
-- [ ] 🏷️ Added QA label to the Basecamp task (`non-QA testing`, `minimal`, `moderate`, or `extensive`)
-- [ ] ✂️ Cut and paste the template below into the bottom of the task Notes. Fill out and/or remove unnecessary items.
+- [ ] **Coding**
+   - 🆔 Added data-testid attribute to applicable elements for QA automation
+   - 💬 Added sufficient code comments
+   - 🧑‍💻 Added applicable Amplitude events
+   - 🔁 Considered and tested for backward compatibility
+   - ⚠️ Resolved any warning messages in the console (DevTools & Terminal)
+
+- [ ] **UI/UX**
+   - 🧪 Tested for web accessibility
+   - 🧪 Tested for responsive design (iPhone 5 / SE, Galaxy S8+, Galaxy Z Fold)
+   - 🧪 Tested for multi-language
+
+- [ ] **Housekeeping**
+   - 📃 Updated applicable documentation
+   - ✍ Updated PR title to be clear & added [PR labels](https://3.basecamp.com/3425901/buckets/4540862/messages/8613591866)
+    
+- [ ] **QA effort**
+   - **If QA testing is needed**:
+     - ✂️ Cut and paste the template below into the bottom of the task Notes, fill it out, and remove unnecessary items
+     - 🏷️ Add QA label to the Basecamp task (`minimal`, `moderate`, or `extensive`)
+   
+   - **If QA testing is NOT needed**:
+     - 🔄 Do regression tests need to be created or updated?  
+       - If yes, ping Ethan in the task for review and leave the task open
+
 
 -------
 # Acceptance Criteria
@@ -47,3 +61,4 @@
 # QA Checklist
 1. Are there any Regression Test Cases that need to be updated? List the updates made.
 2. Do you need to update the [Testing Hub Doc](https://sites.google.com/paymentsource.ca/services/development/testing-expected-behaviour) with behaviours or accounts?
+
