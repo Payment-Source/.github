@@ -12,7 +12,6 @@
    - 🆔 Added data-testid attribute to applicable elements for QA automation
    - 💬 Added sufficient code comments
    - 🧑‍💻 Added applicable Amplitude events
-   - 🔁 Considered and tested for backward compatibility
    - ⚠️ Resolved any warning messages in the console (DevTools & Terminal)
 
 - [ ] **UI/UX**
@@ -61,4 +60,5 @@
 # QA Checklist
 1. Are there any Regression Test Cases that need to be updated? List the updates made.
 2. Do you need to update the [Testing Hub Doc](https://sites.google.com/paymentsource.ca/services/development/testing-expected-behaviour) with behaviours or accounts?
+
 
