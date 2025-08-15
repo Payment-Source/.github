@@ -17,7 +17,7 @@
 - [ ] **UI/UX**
    - 🧪 Tested for web accessibility
    - 🧪 Tested for responsive design (iPhone 5 / SE, Galaxy S8+, Galaxy Z Fold)
-   - 🧪 Tested for multi-language
+   - 🌐 Moved text into language files
 
 - [ ] **Housekeeping**
    - 📃 Updated applicable documentation
@@ -60,5 +60,6 @@
 # QA Checklist
 1. Are there any Regression Test Cases that need to be updated? List the updates made.
 2. Do you need to update the [Testing Hub Doc](https://sites.google.com/paymentsource.ca/services/development/testing-expected-behaviour) with behaviours or accounts?
+
 
 
