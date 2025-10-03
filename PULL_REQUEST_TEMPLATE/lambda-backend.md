@@ -25,6 +25,7 @@
 - [ ] **QA effort**
    - **If QA testing is needed**:
      - ✂️ Cut and paste the template below into the bottom of the task Notes, fill it out, and remove unnecessary items
+     - 🏷️ Add `qa review` label to the Basecamp task
      - 🏷️ Add QA label to the Basecamp task (`minimal`, `moderate`, or `extensive`)
    
    - **If QA testing is NOT needed**:
@@ -49,4 +50,5 @@
 # QA Checklist
 1. Are there any Regression Test Cases that need to be updated? List the updates made.
 2. Do you need to update the [Testing Hub Doc](https://sites.google.com/paymentsource.ca/services/development/testing-expected-behaviour) with behaviours or accounts?
+
 
