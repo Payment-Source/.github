@@ -9,6 +9,7 @@
 
 ## Developer Checklist
 - [ ] **Coding**
+   - 🔒 Applied secure coding practices
    - 🧪 Updated Request Template JSON & tested using Mock Lambda Testing Tool
    - 🌐 Moved text into language files
    - 🧑‍💻 Added applicable Amplitude events

@@ -9,6 +9,7 @@
 
 ## Developer Checklist
 - [ ] **Coding**
+   - 🔒 Applied secure coding practices
    - 🆔 Added data-testid attribute to applicable elements for QA automation
    - 💬 Added sufficient code comments
    - 🧑‍💻 Added applicable Amplitude events

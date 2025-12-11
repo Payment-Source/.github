@@ -9,7 +9,8 @@
 
 ## Developer Checklist
 - [ ] **Coding**
-   - 🔁 Considered and tested for backward compatibility
+   - 🔒 Applied secure coding practices
+   - 🔁 Tested for backward compatibility
    - 💬 Added sufficient code comments
    - 🧑‍💻 Added applicable Amplitude events
    - ⚠️ Resolved any warning messages in the console
