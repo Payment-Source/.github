@@ -16,8 +16,9 @@
    - 💬 Added sufficient code comments
 
 - [ ] **AWS**
-   - 📄 Granted applicable rights in AWS
+   - ☁️ Granted applicable rights in AWS
    - 📄 Completed applicable API Gateway definition changes
+   - 🚀 Mirrored any AWS Console changes to the production account
 
 - [ ] **Housekeeping**
    - 📃 Updated applicable documentation
@@ -50,6 +51,7 @@
 # QA Checklist
 1. Are there any Regression Test Cases that need to be updated? List the updates made.
 2. Do you need to update the [Testing Hub Doc](https://sites.google.com/paymentsource.ca/services/development/testing-expected-behaviour) with behaviours or accounts?
+
 
 
 
