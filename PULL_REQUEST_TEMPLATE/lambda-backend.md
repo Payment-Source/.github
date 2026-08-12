@@ -22,7 +22,7 @@
 
 - [ ] **Housekeeping**
    - 📃 Updated applicable documentation
-   - ✍ Updated PR title to be clear & added [PR labels](https://3.basecamp.com/3425901/buckets/4540862/messages/8613591866)
+   - ✍ Updated PR title to be clear & added [PR labels](https://app.basecamp.com/3425901/buckets/4540862/messages/8613591866)
     
 - [ ] **QA effort**
    - **If QA testing is needed**:
